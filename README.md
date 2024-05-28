@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js zod React-Hook-Form example app
+
+- Add type and schema with Zod
+- Implement react-hook-form + zod for form validation on the **client side**
+- next.js SSR
+- Dummy json data from https://dummyjson.com/docs/todos
 
 ## Getting Started
 
